@@ -13,7 +13,7 @@ namespace CommunityGestionXD.Class
 
         public void ShowInfo()
         {
-            Console.WriteLine($"Name: {Name}, Agee: {Age}");
+            Console.WriteLine($"Name: {Name}, Age: {Age}");
         }
     }
 }
