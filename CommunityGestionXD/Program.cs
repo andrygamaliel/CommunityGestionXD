@@ -150,7 +150,7 @@ namespace CommunityGestionXD
                 GraduationYear = graduationYear
             };
 
-            Console.WriteLine("\nFormer Student added successfully:");
+            Console.WriteLine("\nFormer Student added successfully!!:");
             formerStudent.ShowInfo();
             formerStudent.Remember();
         }

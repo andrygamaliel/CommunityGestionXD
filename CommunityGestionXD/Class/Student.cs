@@ -12,7 +12,7 @@ namespace CommunityGestionXD.Class
 
         public void Study()
         {
-            Console.WriteLine($"{Name} is studying in grade {Grade}.");
+            Console.WriteLine($"{Name} is studying in grade: {Grade}.");
         }
     }
 }
