@@ -12,7 +12,7 @@ namespace CommunityGestionXD.Class
 
         public void Teach()
         {
-            Console.WriteLine($"{Name} teachesss {Subject}.");
+            Console.WriteLine($"{Name} teaches {Subject}.");
         }
     }
 }
